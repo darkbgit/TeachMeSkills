@@ -2,7 +2,7 @@
 
 This repository contains tasks completed during the C# course at TeachMeSkills online school
 
-## Task1
+## Homework 2
 
 This is a simple console application that simulates a shop where users can buy products.
 
@@ -14,7 +14,7 @@ This is a simple console application that simulates a shop where users can buy p
 - If the user has enough balance, the product is bought, and the balance is updated.
 - The process repeats until the user decides to exit.
 
-## Task2
+## Homework 3
 
 This is a console-based calculator application that can solve mathematical equations involving basic arithmetic operations and the square root function.
 
